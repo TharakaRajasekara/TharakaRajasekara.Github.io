@@ -16,8 +16,7 @@ const ProfComponent = () => {
           <h1 className="green">Tharaka Rajasekara</h1>
           <h3>Fullstack Software Engineer</h3>
           <p>
-          Undergraduate in Computation and Management. My passion lies in computer science, and I have practical experience from my internship at Colombo Shield Software Company. I was  proficient in Java and  worked as a Full Stack Software Engineer. My favorite technologies include Spring Boot, React, and MySQL.
-          </p>
+          I am Tharaka Rajasekara, a dedicated Full Stack Software Engineer passionate about developing innovative web applications. As a final-year undergraduate at the University of Peradeniya, pursuing a B.Sc. in Computation and Management, I have gained strong expertise in backend development with Spring Boot and frontend technologies such as React.js. My work spans various projects, including responsive, user-friendly applications that enhance operational efficiency and user experience. Some of my key projects include the Zumba Fitness Project and my personal portfolio website, showcasing my skills in React.js, Bootstrap, Node.js, MySQL, and PHP. I also have practical experience in cloud computing with AWS, data mining using tools like Python and Google Colab, and cybersecurity from my involvement with Netacad Cisco Networking Academy. I am eager to take on new challenges and contribute to impactful technological solutions.</p>
           <button>Let's talk</button>
           <Social>
             <p>Check out my</p>
