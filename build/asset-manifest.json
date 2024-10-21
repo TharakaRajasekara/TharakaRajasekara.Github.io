@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TharakaRajasekara/TharakaRajasekara.github.io.git/static/css/main.5092be3c.css",
-    "main.js": "/TharakaRajasekara/TharakaRajasekara.github.io.git/static/js/main.2963b20c.js",
-    "index.html": "/TharakaRajasekara/TharakaRajasekara.github.io.git/index.html",
-    "main.5092be3c.css.map": "/TharakaRajasekara/TharakaRajasekara.github.io.git/static/css/main.5092be3c.css.map",
-    "main.2963b20c.js.map": "/TharakaRajasekara/TharakaRajasekara.github.io.git/static/js/main.2963b20c.js.map"
+    "main.css": "/static/css/main.5092be3c.css",
+    "main.js": "/static/js/main.bd1610a2.js",
+    "index.html": "/index.html",
+    "main.5092be3c.css.map": "/static/css/main.5092be3c.css.map",
+    "main.bd1610a2.js.map": "/static/js/main.bd1610a2.js.map"
   },
   "entrypoints": [
     "static/css/main.5092be3c.css",
-    "static/js/main.2963b20c.js"
+    "static/js/main.bd1610a2.js"
   ]
 }
