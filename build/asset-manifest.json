@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TharakaRajasekara/TharakaRajasekara.github.io.git/static/css/main.5092be3c.css",
+    "main.js": "/TharakaRajasekara/TharakaRajasekara.github.io.git/static/js/main.2963b20c.js",
+    "index.html": "/TharakaRajasekara/TharakaRajasekara.github.io.git/index.html",
+    "main.5092be3c.css.map": "/TharakaRajasekara/TharakaRajasekara.github.io.git/static/css/main.5092be3c.css.map",
+    "main.2963b20c.js.map": "/TharakaRajasekara/TharakaRajasekara.github.io.git/static/js/main.2963b20c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5092be3c.css",
+    "static/js/main.2963b20c.js"
+  ]
+}
